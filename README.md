@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi, I'm Koen 👋🏻👨🏻‍💻
+I'm a front end engineer with six years experience conceptualizing and building applications for the web.
 <!--
 **koen-dev/koen-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
